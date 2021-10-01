@@ -1,7 +1,7 @@
 - Hi, I’m @pmacguinness
 - I’m interested in re-learning how to code after not practicing for a few years
-- I’m currently re-learning Javascript, jQuery, and frontend scripts
-- How to reach me: pmacguinness[at]gmail.com
+- I’m currently re-learning Javascript, jQuery, and frontend scripts to update my business website
+- How to reach me: pmacguinness[at]gmail.com / www.macguinnessmedia.com
 
 <!---
 pmacguinness/pmacguinness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
